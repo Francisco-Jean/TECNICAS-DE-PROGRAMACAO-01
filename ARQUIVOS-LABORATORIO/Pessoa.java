@@ -1,5 +1,5 @@
 abstract class Pessoa {
-    private String Nome;
+    private String nome;
     private int idade;
     private char sexo;
 
